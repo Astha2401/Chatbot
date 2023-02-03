@@ -1,6 +1,8 @@
 # Chatbot
 
 The chat bots are conversational virtual assistants which automate interactions with the users.
+
+
 Chat bots are powered by artificial intelligence using machine learning techniques to understand natural language.
 The main motive of the paper is to help the users with minor health information. 
 Initially when the user visits the website first register themselves and later can ask the bot their queries. 
